@@ -44,6 +44,7 @@ BOARD_EGL_CFG := device/symphony/w69/egl.cfg
 
 # some properties
 BOARD_HAS_NO_SELECT_BUTTON := true
+BOARD_USES_UBOOT := true
 
 
 
